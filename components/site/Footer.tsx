@@ -27,6 +27,12 @@ export function Footer() {
           <p className="mt-1 text-xs text-slate-500">
             Educational concept prototype.
           </p>
+          <p className="mt-3 text-xs text-slate-500">
+            Made by{" "}
+            <span className="font-medium text-slate-300">
+              Ingkar Serikpayeva
+            </span>
+          </p>
         </div>
 
         <div className="grid grid-cols-2 gap-10 sm:grid-cols-3">
