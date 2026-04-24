@@ -10,7 +10,7 @@ const pains = [
     icon: Coins,
     title: "$100K+ minimums",
     description:
-      "Most private funds gate entry at six-figure checks — effectively excluding anyone who isn't already wealthy.",
+      "Most private funds gate entry at six-figure checks, effectively excluding anyone who isn't already wealthy.",
     stat: "$250K",
     statLabel: "typical PE fund minimum",
   },
@@ -26,7 +26,7 @@ const pains = [
     icon: Lock,
     title: "Locked for a decade",
     description:
-      "Once committed, your capital is typically illiquid for 7–12 years — no exits, no flexibility, no secondary market.",
+      "Once committed, your capital is typically illiquid for 7–12 years, no exits, no flexibility, no secondary market.",
     stat: "10+ yrs",
     statLabel: "typical lock-up period",
   },

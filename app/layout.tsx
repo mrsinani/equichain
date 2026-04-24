@@ -16,11 +16,11 @@ const instrument = Instrument_Serif({
 });
 
 export const metadata: Metadata = {
-  title: "EquiChain — Private Markets. Public Access.",
+  title: "EquiChain | Private Markets. Public Access.",
   description:
     "EquiChain opens access to curated private equity opportunities once reserved for institutions and high-net-worth investors.",
   openGraph: {
-    title: "EquiChain — Private Markets. Public Access.",
+    title: "EquiChain | Private Markets. Public Access.",
     description:
       "Curated private equity for everyday investors. Lower minimums, full transparency, real-time tracking.",
     type: "website",

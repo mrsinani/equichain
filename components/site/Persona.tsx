@@ -22,7 +22,7 @@ export function Persona() {
             <span className="text-gradient-accent">serious investors</span>.
           </>
         }
-        description="Young professionals who already invest thoughtfully across public markets — and want real exposure to what comes next."
+        description="Young professionals who already invest thoughtfully across public markets, and want real exposure to what comes next."
       />
 
       <div className="mt-14 grid items-center gap-6 lg:grid-cols-[0.9fr_1.1fr]">
@@ -55,7 +55,7 @@ export function Persona() {
             <Quote className="h-5 w-5 text-cyan-300" />
             <p className="mt-2 text-[15px] leading-relaxed text-slate-200">
               &ldquo;I already invest in stocks, ETFs, and crypto. I want
-              access to the deals my boss invests in — without needing
+              access to the deals my boss invests in, without needing
               $100,000 and a wealth manager to get in.&rdquo;
             </p>
           </div>
@@ -102,7 +102,7 @@ export function Persona() {
               <p className="mt-2 text-sm leading-relaxed text-slate-200">
                 $1,500 allocated across three vetted funds. Live tracking in
                 her portfolio dashboard. A clear exit path via secondary
-                transfer — all from her phone on a Sunday afternoon.
+                transfer, all from her phone on a Sunday afternoon.
               </p>
             </div>
           </div>

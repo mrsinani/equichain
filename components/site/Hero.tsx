@@ -27,10 +27,10 @@ export function Hero() {
             initial={{ opacity: 0, y: 14 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.6, delay: 0.05 }}
-            className="mt-6 font-semibold tracking-tight text-white text-balance text-5xl sm:text-6xl md:text-[68px] leading-[1.02]"
+            className="mt-6 font-semibold tracking-tight text-white text-balance text-[40px] sm:text-6xl md:text-[68px] leading-[1.05] sm:leading-[1.02]"
           >
             Invest{" "}
-            <span className="font-display italic text-gradient-accent">
+            <span className="font-display italic text-gradient-accent inline-block pr-[0.12em]">
               beyond
             </span>{" "}
             public markets.

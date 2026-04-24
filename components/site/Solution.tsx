@@ -37,7 +37,7 @@ const features: Feature[] = [
     icon: LineChart,
     title: "Real-time dashboard",
     description:
-      "Live NAV estimates, capital calls, distributions, and IRR — all in one clean interface.",
+      "Live NAV estimates, capital calls, distributions, and IRR, all in one clean interface.",
     accent: "from-violet-400/30 to-indigo-400/10",
   },
   {
@@ -60,7 +60,7 @@ export function Solution() {
             <span className="text-gradient-accent">more accessible</span>.
           </>
         }
-        description="A modern investing stack for a historically inaccessible asset class — without the gatekeepers."
+        description="A modern investing stack for a historically inaccessible asset class, without the gatekeepers."
       />
 
       <div className="mt-14 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">

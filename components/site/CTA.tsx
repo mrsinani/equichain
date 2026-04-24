@@ -57,9 +57,9 @@ export function CTA() {
               Early access
             </span>
 
-            <h2 className="mx-auto mt-6 max-w-3xl text-balance text-4xl sm:text-5xl md:text-[56px] font-semibold tracking-tight leading-[1.05] text-white">
+            <h2 className="mx-auto mt-6 max-w-3xl text-balance text-[34px] sm:text-5xl md:text-[56px] font-semibold tracking-tight leading-[1.08] sm:leading-[1.05] text-white">
               Private markets should{" "}
-              <span className="font-display italic text-gradient-accent">
+              <span className="font-display italic text-gradient-accent inline-block pr-[0.1em]">
                 not
               </span>{" "}
               stay private.

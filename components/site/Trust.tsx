@@ -26,7 +26,7 @@ export function Trust() {
 
           <div className="flex-1">
             <h3 className="text-base font-semibold text-white">
-              Educational use only — not financial advice.
+              Educational use only, not financial advice.
             </h3>
             <p className="mt-1.5 flex items-start gap-2 text-sm leading-relaxed text-slate-300/90">
               <Info className="mt-0.5 h-4 w-4 shrink-0 text-slate-400" />
